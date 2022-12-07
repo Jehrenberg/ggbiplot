@@ -1,2 +1,2 @@
-export(ggbiplot)
+export(ggbiplot2)
 export(ggscreeplot)
